@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/stylecalendar)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/stylecalendar.svg)](https://vaadin.com/directory/component/stylecalendar)
+
 # StyleCalendar
 
 StyleCalendar is a calendar add-on for [Vaadin](http://vaadin.com). Its goal is to offer a simple, extendable calendar component with an easily themeable client-side DOM structure. 
